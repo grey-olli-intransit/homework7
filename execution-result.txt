@@ -1,0 +1,24 @@
+----> 03:02:47 Sat Jun 05 olli@dell15 ~/bin/cpp/geekbrains/homework7/build
+$ ./hw 
+0 is in range 0..3 (including 0, excluding 3)
+-1 is not in range 0..3 (including 0, excluding 3)
+2 is in range 0..3 (including 0, excluding 3)
+3 is not in range 0..3 (including 0, excluding 3)
+4 is not in range 0..3 (including 0, excluding 3)
+1 2 3 
+4 5 6 
+7 8 9 
+Macro shows that arr[2][2] is 9
+Enter arr[2][2]: 22
+Macro shows that arr[2][2] is 22
+1 2 3 
+4 5 6 
+7 8 22 
+And for dynamically allocated with 'new' array:
+0 1 2 
+1 2 3 
+2 3 4 
+Macro shows that arr2[2][2] is 4
+Macro tells that number of elements in arr[3][3] is 9 .
+----> 03:02:53 Sat Jun 05 olli@dell15 ~/bin/cpp/geekbrains/homework7/build
+$ 
